@@ -1,6 +1,6 @@
 # Keeper App
 
-It is Notes/Remaiander/Blog App made with React.js. It Adds notes and deletes them.
+It is Notes/Remainder/Blog App made with React.js. It Adds notes and deletes them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
